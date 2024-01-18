@@ -1,0 +1,59 @@
+  body{
+    background-color:rgb(163, 194, 191) ;
+    font-family: 'Lemon', serif;
+}
+table, th, td {
+    border:4px solid black;
+    border-radius: 20px;
+  }
+  .di{
+    background-color: aqua;
+  }
+  .ma{
+    background-color: azure;
+  }
+   .ir{
+    background-color: aquamarine;
+   }
+.an{
+    background-color: rgb(58, 58, 78);
+}
+.ma{
+    background-color: rgb(93, 93, 243);
+}
+.fi{
+    background-color: rgb(141, 141, 206);
+}
+.fo{
+    background-color: rgba(57, 57, 102, 0.5);
+}
+.it{
+    background-color: rgb(198, 219, 236);
+}
+.ke{
+    background-color: rgb(27, 156, 216);
+}
+.mat{
+    background-color: rgb(183, 183, 233);
+}
+.te{
+    background-color: rgb(156, 156, 187);
+}
+.pr{
+    background-color: rgba(15, 15, 150, 0.404);
+}
+.to{
+    background-color: rgba(38, 38, 221, 0.856);
+}
+.ir{
+    background-color: rgba(14, 14, 73, 0.541);
+}
+.of{
+    background-color: rgba(29, 29, 65, 0.651);
+}
+.bi{
+    background-color: rgba(100, 100, 182, 0.815);
+}
+.ip{
+    background-color: rgb(162, 235, 235);
+}
